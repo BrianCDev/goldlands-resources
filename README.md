@@ -12,10 +12,17 @@ Hola!, bienvenido a este maravilloso mundo, Goldlands es un mundo abierto rolepl
 
 # Equipo Técnico.
 **Fundadores**
-| Gamer Tag     | GitHub  | Instagram |
+| Gamer Tag     | GitHub  | Instagram | Discord |
+| ------------- | --------------- | ---------------- | ---------------- |
+| BrianCDev    | Compatible      | Compatible       | Compatible       |
+| Evan_Roams    | Compatible      | Compatible       | Compatible       |
+
+**Staff**
+| Gamer Tag     | Rango  | Discord |
 | ------------- | --------------- | ---------------- |
-| BrianCDev    | Compatible      | Compatible       |
+| Emman_vdl    | Director Staff      | Astro_00_#6267       |
 | Evan_Roams    | Compatible      | Compatible       |
+
 
 
 
