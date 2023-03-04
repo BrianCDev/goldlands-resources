@@ -6,9 +6,16 @@
 
 </p>
 
-## ¿Que es Goldlands proyect?
+# ¿Que es Goldlands proyect?
 
 Hola!, bienvenido a este maravilloso mundo, Goldlands es un mundo abierto roleplay creado por @BrianCDev y @Evan_Roams, donde se remonta en la época medieval, pero no solo eso, también se hace una adaptación de la época pirata. Goldlands cuenta con su propia historia, que ha sido desarrollada por un guionista, puedes conocer acerca de la creación de [Goldlands dando click aquí](https://www.youtube.com/watch?v=zECBMeurUl4), Se estima que Goldlands será lanzado este mismo año si quieres conocer acerca de adelantos, puedes unirte a nuestro servidor de [Discord](https://discord.gg/thdhGPymqr), y estar pendiente de las proximas actualizaciones.
+
+```bash
+favor leer el apartado de Políticas de Goldlands el cual encontrará un poco más abajo.
+
+```
+
+# Políticas.
 
 # Equipo Técnico.
 **Fundadores**
@@ -17,14 +24,10 @@ Hola!, bienvenido a este maravilloso mundo, Goldlands es un mundo abierto rolepl
 | BrianCDev    | Compatible      | Compatible       | Compatible       |
 | Evan_Roams    | Compatible      | Compatible       | Compatible       |
 
-**Staff**
+**Staff - Miembros del equipo técnico y soporte**
 | Gamer Tag     | Rango  | Discord |
 | ------------- | --------------- | ---------------- |
 | Emman_vdl    | Director Staff      | Astro_00_#6267       |
-| Evan_Roams    | Compatible      | Compatible       |
-
-
-
 
 # Compatibilidad.
  **Lanzadores compatibles con Godlands**
