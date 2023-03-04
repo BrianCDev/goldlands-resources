@@ -12,8 +12,9 @@ Hola!, bienvenido a este maravilloso mundo, Goldlands es un mundo abierto rolepl
 
 # Equipo Técnico.
 **Fundadores**
-| BrianCDev     | Launcher Fenix  | Launcher Premium |
+| Gamer Tag     | GitHub  | Instagram |
 | ------------- | --------------- | ---------------- |
+| BrianCDev    | Compatible      | Compatible       |
 | Evan_Roams    | Compatible      | Compatible       |
 
 
