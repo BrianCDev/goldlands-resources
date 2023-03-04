@@ -10,8 +10,15 @@
 
 Hola!, bienvenido a este maravilloso mundo, Goldlands es un mundo abierto roleplay creado por @BrianCDev y @Evan_Roams, donde se remonta en la época medieval, pero no solo eso, también se hace una adaptación de la época pirata. Goldlands cuenta con su propia historia, que ha sido desarrollada por un guionista, puedes conocer acerca de la creación de [Goldlands dando click aquí](https://www.youtube.com/watch?v=zECBMeurUl4), Se estima que Goldlands será lanzado este mismo año si quieres conocer acerca de adelantos, puedes unirte a nuestro servidor de [Discord](https://discord.gg/thdhGPymqr), y estar pendiente de las proximas actualizaciones.
 
+# Equipo Técnico.
+**Fundadores**
+| BrianCDev     | Launcher Fenix  | Launcher Premium |
+| ------------- | --------------- | ---------------- |
+| Evan_Roams    | Compatible      | Compatible       |
 
-# Librerías e instalación.
+
+
+# Compatibilidad.
  **Lanzadores compatibles con Godlands**
  En Godlands hemos probado los siguientes lanzadores y han trabajado de manera correcta,  son los lazadores más usados en el 2023.
 
